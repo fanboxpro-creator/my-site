@@ -1,0 +1,9 @@
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dashboard reading data from Google Sheets via Vercel serverless function",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
